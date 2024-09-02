@@ -1,0 +1,6 @@
+name: hira
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+prefix: /opt/anaconda3/envs/hira
